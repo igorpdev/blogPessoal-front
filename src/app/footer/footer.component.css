@@ -1,0 +1,42 @@
+.bg-footer {
+    background: rgb(2,1,20);
+    background: linear-gradient(90deg, rgba(2,1,20,1) 0%, rgba(2,2,47,1) 35%, rgba(2,1,20,1) 100%);
+}
+
+.bg-footer2 {
+    background:linear-gradient(90deg, #040404, #0000, #040404);
+}
+
+.fs-16 {
+    font-size: 16px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+a {
+    cursor: pointer;
+}
+
+ul.redes-sociais {
+    list-style: none;
+    padding: 0;
+}
+
+ul.redes-sociais li {
+    display: inline;
+    margin: 0;
+    padding: 10px;
+}
+
+.fab {
+    font-size: 30pt;
+    color: white;
+    padding: 10px;
+}
+
+.fa-linkedin:hover {
+    color: silver;
+}
+
+.fa-github:hover {
+    color: silver;
+}
