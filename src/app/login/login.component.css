@@ -1,0 +1,24 @@
+#img-bg {
+    background-image: url('https://i.pinimg.com/originals/0b/06/39/0b06397a3199bee4a5922ee4488ebf5a.jpg');
+    min-height: 695px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    color: silver !important;
+    background: #ffffff;
+    padding: 10px;
+    border: 2px solid silver !important;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.5s ease 0s;
+}
+
+.btn:hover {
+    color: rgb(2, 1, 20) !important;
+    border-radius: 50px;
+    border-color: rgb(2, 1, 20) !important;
+    transition: all 0.5s ease 0s;
+}
