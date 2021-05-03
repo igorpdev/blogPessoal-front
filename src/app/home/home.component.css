@@ -1,0 +1,26 @@
+#bg-row {
+  background-color: #242434;
+}
+
+.fs-54 {
+  font-size: 54pt;
+}
+
+.fs-18 {
+  font-size: 18pt;
+}
+
+.f-color {
+  color: rgb(2, 2, 47);
+  font-weight: bold;
+}
+
+.btn-azul {
+  background-color: rgb(2, 2, 47);
+  color: white;
+  outline-color: white;
+}
+
+.btn-azul:hover {
+  background-color: #242434;
+}

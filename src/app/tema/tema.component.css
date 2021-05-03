@@ -1,0 +1,22 @@
+.bg-row {
+  background-color: #242434;
+}
+
+.fs-16 {
+  font-size: 16px;
+}
+
+.f-color {
+  color: rgb(2, 2, 47);
+  font-weight: bold;
+}
+
+.btn-azul {
+  background-color: white;
+  color: rgb(2, 2, 47);
+}
+
+.btn-azul:hover {
+  background-color: rgb(2, 2, 47);
+  color: white;
+}
